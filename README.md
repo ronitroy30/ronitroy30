@@ -1,6 +1,6 @@
 <h1> Hey, I’m Ronit </h1>
 
-<img src="./Unknown.jpeg" width="32%" alt="vector" align="right"> 
+<img src="https://raw.githubusercontent.com/ronitroy30/ronitroy30/main/images/hand-coding-concept-illustration_114360-8113.jpg.avif" width="38%" alt="vector" align="right"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👨‍💼;Student👨🏻‍🎓;Coder+💻;)](https://git.io/typing-svg)
 
@@ -8,7 +8,7 @@
   
   👀 I am an Data Science and Data Engineering enthusiast\
   🤖 Currently practising Apache Spark and its applications\
-  📖 I'm interested in internship opportunities in AI, ML & DS fields\
+  📖 I'm interested in internship opportunities in AI, ML ,DS and DE fields\
   📫 ronitr300701@gmail.com\
   🕸️ <a href = "https://ronitroy30.github.io/ronitroy30-portfolio.github.io/">My Portfolio</a>
 
@@ -17,7 +17,7 @@
 <br>
 <br>
 
-<div id="badges" align = "center">
+<div id="badges" align = "left">
 
   <a href="https://www.linkedin.com/in/ronit-roy-1602681b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -26,13 +26,10 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
    <!--- 
-  <a href="https://twitter.com/annarhysa003">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/aa17011?hr_r=1">
+  <a href="https://www.hackerrank.com/">
     <img src="https://img.shields.io/badge/HackerRank-Green?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
   </a>
-  <a href="https://www.codechef.com/users/anna_albert21">
+  <a href="https://www.codechef.com/users/">
     <img src="https://img.shields.io/badge/Codechef-brown?style=for-the-badge&logo=codechef&logoColor=white" alt="Codechef Badge"/>
   </a>) --->
 </div>
