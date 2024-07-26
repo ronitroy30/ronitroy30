@@ -1,6 +1,6 @@
 <h1> Hey, I’m Ronit </h1>
 
-<img src="./images/Hand coding-rafiki.png" width="32%" alt="vector" align="right"> 
+<img src="./Unknown.jpeg" width="32%" alt="vector" align="right"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Data+Scientist+👨‍💼;Student👨🏻‍🎓;Coder+💻;)](https://git.io/typing-svg)
 
