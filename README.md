@@ -82,6 +82,9 @@
 
 ## 🔝 Top Repositories
 <div align = "center">
+<a href="https://github.com/ronitroy30/Spotify-ETL-Pipeline">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronitroy30&repo=Spotify-ETL-Pipeline&theme=transparent" />
+</a>
 <a href="https://github.com/ronitroy30/Energy-consumption">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ronitroy30&repo=Energy-consumption&theme=transparent" />
 </a>
