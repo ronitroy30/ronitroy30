@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ronitroy30/ronitroy30/main/images/hand-coding-concept-illustration_114360-8113.jpg.avif" width="38%" alt="vector" align="right"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Scientist+👨‍💼;Student👨🏻‍🎓;Coder+💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Student👨🏻‍🎓;Coder+💻)](https://git.io/typing-svg)
 <div align = "left">
   
   👀 I am an Data Science and Data Engineering enthusiast\
@@ -67,7 +67,7 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow.svg?style=for-the-badge&logo=HuggingFace&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-grey.svg?style=for-the-badge&logo=NLTK&logoColor=white)
 
-[![Ronit's GitHub | Dependencies](https://stats.quine.sh/ronitroy30/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ronitroy30) 
+<!--[![Ronit's GitHub | Dependencies](https://stats.quine.sh/ronitroy30/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ronitroy30)-->
 
 </div>
 
