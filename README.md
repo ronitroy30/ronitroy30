@@ -9,7 +9,7 @@
   🤖 Currently practising Apache Spark and its applications\
   📖 I'm interested in internship opportunities in AI, ML ,DS and DE fields\
   📫 ronitr300701@gmail.com\
-  🕸️ <a href = "https://ronitroy30.github.io/portfolio/">My Portfolio</a>
+  🕸️ <a href = "https://ronitroy30.github.io/portfolio1/">My Portfolio</a>
 
   </div>
 <br>
