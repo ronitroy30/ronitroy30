@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-```python
+
 class RonitRoy:
     def __init__(self):
         self.role = "Data Engineer @ Saayam For All"
@@ -30,7 +30,7 @@ class RonitRoy:
         print("Let's connect and build something amazing!")
         
 me = RonitRoy()
-```
+
 🛠️ Technical Toolkit
 
 Data Engineering Stack
