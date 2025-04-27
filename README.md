@@ -20,7 +20,7 @@
 ### 🛠️ Core Expertise
 
 #### **Data Engineering**
-```plaintext
+
 ETL Pipelines  •  Data Warehousing  •  Distributed Systems  
 Airflow  •  Spark  •  Kafka  •  SQL Optimization
 Cloud Technologies
