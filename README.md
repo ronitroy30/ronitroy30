@@ -17,39 +17,20 @@
 
 ---
 
-### 🛠️ Tech Stack & Impact
-
+🛠️ Tech Stack & Impact
 <div align="center">
+⚙️ Data Engineering Powerhouse
 
-#### **Data Engineering Powerhouse**
-diff
-+ Airflow Orchestration
-+ Spark Processing
-+ Kafka Streaming
-! SQL Optimization
-# Cloud-Native ETL
-+ AWS (S3/Lambda/Redshift)
-+ Snowflake Data Cloud
-! GCP Solutions
-# Containerized Deployments
-+ TensorFlow/PyTorch
-! Pandas/NumPy
-# Scikit-learn Models
-
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 0.8rem; justify-content: center;"> <div style="background: #E0F7FA; padding: 1rem; border-radius: 12px; min-width: 200px;">🛠️ Airflow Orchestration</div> <div style="background: #E8F5E9; padding: 1rem; border-radius: 12px; min-width: 200px;">🔥 Spark Processing</div> <div style="background: #FFF3E0; padding: 1rem; border-radius: 12px; min-width: 200px;">📡 Kafka Streaming</div> <div style="background: #F3E5F5; padding: 1rem; border-radius: 12px; min-width: 200px;">🧠 SQL Optimization</div> <div style="background: #E3F2FD; padding: 1rem; border-radius: 12px; min-width: 200px;">☁️ AWS (S3 / Lambda / Redshift)</div> <div style="background: #E1F5FE; padding: 1rem; border-radius: 12px; min-width: 200px;">❄️ Snowflake Data Cloud</div> <div style="background: #FCE4EC; padding: 1rem; border-radius: 12px; min-width: 200px;">☁️ GCP Solutions</div> <div style="background: #FFFDE7; padding: 1rem; border-radius: 12px; min-width: 200px;">📦 Containerized Deployments</div> <div style="background: #E8F5E9; padding: 1rem; border-radius: 12px; min-width: 200px;">🧬 TensorFlow / PyTorch</div> <div style="background: #F1F8E9; padding: 1rem; border-radius: 12px; min-width: 200px;">📊 Pandas / NumPy</div> <div style="background: #EDE7F6; padding: 1rem; border-radius: 12px; min-width: 200px;">🔍 Scikit-learn Models</div> </div> </div>
 
 🏆 Career Highlights
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem;"><div style="background: #f5f5f5; padding: 1rem; border-radius: 8px;"> 🔍 **Real-Time Analytics** Reduced latency by 65% <small>Airflow + Spark</small> </div><div style="background: #f5f5f5; padding: 1rem; border-radius: 8px;"> 💰 **Cost Optimization** Saved 40% on queries <small>Snowflake Design</small> </div><div style="background: #f5f5f5; padding: 1rem; border-radius: 8px;"> 🤖 **Fraud Detection** 30% accuracy boost <small>TensorFlow ML</small> </div></div>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;"> <div style="background: #f5f5f5; padding: 1rem; border-radius: 12px; min-width: 250px;"> 🔍 **Real-Time Analytics** <br/>Reduced latency by **65%**<br/><small>using Airflow + Spark</small> </div> <div style="background: #f5f5f5; padding: 1rem; border-radius: 12px; min-width: 250px;"> 💰 **Cost Optimization** <br/>Saved **40%** on queries<br/><small>through Snowflake Design</small> </div> <div style="background: #f5f5f5; padding: 1rem; border-radius: 12px; min-width: 250px;"> 🤖 **Fraud Detection** <br/>Boosted model accuracy by **30%**<br/><small>using TensorFlow ML</small> </div> </div>
 
 
 🚀 Project Showcase
 
-<div align="center">
-Project	Highlights	Tech
-Spotify Pipeline	1M+ daily records	Airflow Snowflake
-Retail Data Lake	10TB+ processing	Spark AWS
-Recommendation Engine	+20% engagement	TensorFlow Flask
-</div>
+<div align="center"> <table> <tr> <th>Project</th> <th>Highlights</th> <th>Tech Stack</th> </tr> <tr> <td>🎵 Spotify Pipeline</td> <td>Processed **1M+ daily records**</td> <td>Airflow, Snowflake</td> </tr> <tr> <td>🛒 Retail Data Lake</td> <td>Handled **10TB+ processing**</td> <td>Spark, AWS</td> </tr> <tr> <td>🤖 Recommendation Engine</td> <td>Increased engagement by **+20%**</td> <td>TensorFlow, Flask</td> </tr> </table> </div>
 
 🏅 Credentials
 
