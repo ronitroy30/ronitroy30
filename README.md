@@ -22,7 +22,7 @@
 <div align="center">
 
 #### **Data Engineering Powerhouse**
-```diff
+diff
 + Airflow Orchestration
 + Spark Processing
 + Kafka Streaming
